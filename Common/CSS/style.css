@@ -217,7 +217,7 @@ a:hover { color: #996600; }
 #pageBodyMain .heading-typeB {
   font-size: 16px;
   border-left: solid 5px #E3E4D9;
-  padding: 10px;
+  padding-left: 10px;
   line-height: 1.375;
 }
 #pageBodyMain .heading-typeC {
@@ -245,9 +245,9 @@ a:hover { color: #996600; }
 /* 撮影情報 */
 #pageBodyMain .creditUnit {
   padding: 10px;
-  line-height: 1.5;
   border: solid 1px #CCCCCC;
 }
 #pageBodyMain .creditUnit p {
   font-size: 12px;
+  line-height: 1.5;
 }
